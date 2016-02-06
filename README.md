@@ -1,4 +1,4 @@
-# BeamformingAlgComp_Listen: Comparative analysis of beamforming methods - Audio demonstration
+# Comparative analysis of beamforming methods - Audio demonstration
 
 Copyright 2016 Ferdinando Olivieri
 

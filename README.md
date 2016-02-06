@@ -26,8 +26,9 @@ Harker, Alexander and Tremblay, Pierre Alexandre (2012) The HISSTools Impulse Re
 Tested with Win and OSX 64-bit versions of MaxMSP.
 
 ## Instructions
-1. Download ZIP file from Github repo and extract it on your machine
-2. Open AlgComp_Listen.maxproj
+1. Download ZIP file from Github repo and extract it on your machine.
+2. Download the audio files from http://eprints.soton.ac.uk/id/eprint/387015 and extract them in the media folder of the MaxMSP project
+3. Open AlgComp_Listen.maxproj
 
 ## Further info
 Compiled versions of the software for Mac and Windows can be downloaded at the following links

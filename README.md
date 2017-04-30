@@ -1,4 +1,4 @@
-# Comparative analysis of beamforming methods - Audio demonstration
+# Additional material for the JSV paper DOI: 10.1016/j.jsv.2016.03.005 - Audio demonstration
 
 Copyright 2016 Ferdinando Olivieri
 

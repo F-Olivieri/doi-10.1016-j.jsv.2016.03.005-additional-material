@@ -13,7 +13,8 @@ If you use this software, please cite the paper below and share any modification
 ## Intro
 BeamformingAlgComp_Listen is a software written in Cycling 74 MaxMSP by Ferdinando Olivieri (F-Olivieri@users.noreply.github.com). 
 
-The software is associated with the paper F Olivieri, F M Fazi, P A Nelson, M Shin, S Fontana, L Yue "Theoretical and experimental comparative analysis of beamforming methods for loudspeaker arrays under given performance constraints".
+The software is associated with the paper:
+F. Olivieri, F. M. Fazi, P. A. Nelson, M. Shin, S. Fontana, and L. Yue, “Theoretical and experimental comparative analysis of beamforming methods for loudspeaker arrays under given performance constraints,” Journal of Sound and Vibration, vol. 373, pp. 302–324, Jul. 2016. DOI: 10.1016/j.jsv.2016.03.005 <http://www.sciencedirect.com/science/article/pii/S0022460X16002340>
 
 This MaxMSP patch allows the reader to listen to the responses of the beamforming filters measured in the ISVR anechoic chamber and presented in the paper above. More details about the filter design and measurement of their responses are given in the paper above.
 

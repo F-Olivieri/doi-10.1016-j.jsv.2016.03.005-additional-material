@@ -11,12 +11,12 @@ You should have received a copy of the GNU General Public License along with Bea
 If you use this software, please cite the paper below and share any modifications you make (as per license) with the author either by contributing to this repository or by sending an email to F-Olivieri@users.noreply.github.com
 
 ## Intro
-BeamformingAlgComp_Listen is a software written in Cycling 74 MaxMSP by Ferdinando Olivieri (F-Olivieri@users.noreply.github.com). 
-
-The software is associated with the paper:
+The code is associated with the paper:
 F. Olivieri, F. M. Fazi, P. A. Nelson, M. Shin, S. Fontana, and L. Yue, “Theoretical and experimental comparative analysis of beamforming methods for loudspeaker arrays under given performance constraints,” Journal of Sound and Vibration, vol. 373, pp. 302–324, Jul. 2016. DOI: 10.1016/j.jsv.2016.03.005 <http://www.sciencedirect.com/science/article/pii/S0022460X16002340>
 
-This MaxMSP patch allows the reader to listen to the responses of the beamforming filters measured in the ISVR anechoic chamber and presented in the paper above. More details about the filter design and measurement of their responses are given in the paper above.
+The code in this repository is written by Ferdinando Olivieri (F-Olivieri@users.noreply.github.com). 
+
+This MaxMSP patch allows the reader to listen to the responses of the beamforming filters measured in the ISVR anechoic chamber and presented in the paper referenced above. More details about the filter design and measurement of their responses are given in the JSV paper at <http://www.sciencedirect.com/science/article/pii/S0022460X16002340>.
 
 The software uses the multiconvolve object by By Alex Harker and Pierre Alexandre Tremblay CeReNeM - The University of Huddersfield
 https://github.com/HISSTools/HISSTools_Impulse_Response_Toolbox - http://eprints.hud.ac.uk/14897/ - 
@@ -32,6 +32,4 @@ Tested with Win and OSX 64-bit versions of MaxMSP.
 3. Open AlgComp_Listen.maxproj
 
 ## Further info
-Compiled versions of the software for Mac and Windows can be downloaded at the following links
-(MAC)
-(WIN)
+Compiled versions of the software for Mac and Windows can be downloaded from <https://github.com/F-Olivieri/doi-10.1016-j.jsv.2016.03.005-Additional-Material/releases>
